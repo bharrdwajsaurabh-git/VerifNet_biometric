@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch checkpoints (optional - keep small weights)
+# checkpoints/*.pt
+
+# Large dataset raw and cached preprocessed files
+data/raw/
+data/cache/
+*.zip
+*.bmp
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
