@@ -91,8 +91,8 @@ Evaluated under zero-shot conditions (unseen subject test set) using the PolyU 2
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/bharrdwajsaurabh-git/VerifNet.git
-cd VerifNet
+git clone https://github.com/bharrdwajsaurabh-git/VerifNet_biometric.git
+cd VerifNet_biometric
 ```
 
 ### 2. Install Dependencies
